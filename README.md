@@ -99,8 +99,11 @@ The Flask app provides a simple and interactive user interface where users can:
 - Scikit-learn Documentation
 - Flask Official Documentation
 
-**Author**
-
+# Author
 Shruti Khadtar
 
 Information Technology | Machine Learning | Data Analytics
+
+# License
+This project is for academic and learning purposes.
+
